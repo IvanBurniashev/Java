@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../homework"
+		},
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../SergeyTasks"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"summary2",
+			"summary1",
+			"ClassDemo/ClassDemo/src/main/java",
+			"summary3"
+		]
+	}
+}

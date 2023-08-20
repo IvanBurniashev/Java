@@ -1,0 +1,168 @@
+<mxfile host="65bd71144e">
+    <diagram id="3P1R0MGVakDXfWJvZYJ1" name="Страница 1">
+        <mxGraphModel dx="1548" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="55" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="54" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-60" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;exitX=0.501;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4" target="19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Этот конвертер реализует 2 типа конвертации.&lt;br&gt;1. Системы счисления (n10 &amp;gt; nn и nn &amp;gt; n10)&lt;br&gt;2. Температуры (C &amp;gt; K и С &amp;gt; F)&lt;br&gt;Выберите, нажав цифру 1 или 2." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+                    <mxGeometry x="-125" y="210" width="250" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="110" y="484" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="if 1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-75" y="444" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="edgeStyle=none;html=1;exitX=0.486;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="14" target="28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Вы хотите конвертировать:&lt;br&gt;1.&amp;nbsp;Цельция в&amp;nbsp;Кельвины&lt;br&gt;2. Цельсия в Фаренгейта&lt;br&gt;Выберите, нажав цифру 1 или 2." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="440" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="444" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="19" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="input 1 || 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="-60" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;exitX=0.501;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="22" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Вы хотите конвертировать:&lt;br&gt;1. Из десятичной СС в любую другую&lt;br&gt;2. Из другой в десятичную СС.&lt;br&gt;Выберите, нажав цифру 1 или 2." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+                    <mxGeometry x="-330" y="444" width="214" height="126" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="edgeStyle=none;html=1;" parent="1" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-221" y="830" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="60" value="" style="edgeStyle=none;html=1;" parent="1" source="27" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="input 1 || 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="-283" y="590" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="input 1 || 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="590" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;html=1;" parent="1" source="32" target="61" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-308" y="1070" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="" style="edgeStyle=none;html=1;" parent="1" source="32" target="51" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="if 1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-261" y="1030" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="43" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-220" y="920" as="sourcePoint"/>
+                        <mxPoint x="-218" y="950" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="Введите основание системы счисления" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+                    <mxGeometry x="-281" y="860" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-128.63779527559063" y="395" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="-110" y="444" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="edgeStyle=none;html=1;" parent="1" source="43" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="radix = input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="-281" y="950" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="-298" y="1040" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Вычисление из любой в 10" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-148" y="1040" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="-198" y="1040" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="edgeStyle=none;html=1;" parent="1" source="54" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="int a;&lt;br&gt;String b;&lt;br&gt;int radix;&lt;br&gt;String result;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-60" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="59" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-222" y="740" as="sourcePoint"/>
+                        <mxPoint x="-220" y="770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="Введите число для конвертации:" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+                    <mxGeometry x="-283" y="680" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="а = input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="-283" y="770" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="" style="edgeStyle=none;html=1;" parent="1" source="61" target="62" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="result = &quot;&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-430" y="1040" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="edgeStyle=none;html=1;" parent="1" source="62" target="64" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" style="edgeStyle=none;html=1;" parent="1" source="62" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-370" y="1340" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-290" y="1160"/>
+                            <mxPoint x="-290" y="1310"/>
+                            <mxPoint x="-370" y="1310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="while a !=o" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-410" y="1120" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="64" target="62" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-460" y="1260"/>
+                            <mxPoint x="-460" y="1160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="result = Integer.toString(a % radix) + result&lt;br&gt;a = a / radix" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-437.5" y="1230" width="135" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="-370" y="1190" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="-345" y="1125" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="output result" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+                    <mxGeometry x="-430" y="1340" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
